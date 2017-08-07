@@ -11,8 +11,8 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
+    "presets":{"url": "http://devel.profiduciaria.ro/rm/", "username": ""},
     "siteurl": "http://devel.profiduciaria.ro/rm/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
 }
