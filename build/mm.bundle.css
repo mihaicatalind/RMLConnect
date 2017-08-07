@@ -9460,7 +9460,7 @@ progress {
     border-color: transparent;
     background: none;
     box-shadow: none;
-    color: #0064d2; }
+    color: #dc0028; }
   .button-clear.button-icon {
     border-color: transparent;
     background: none; }
@@ -9475,9 +9475,9 @@ progress {
   .button-outline.button-outline {
     border-color: #0064d2;
     background: transparent;
-    color: #0064d2; }
+    color: #fff; }
     .button-outline.button-outline.active, .button-outline.button-outline.activated {
-      background-color: #0064d2;
+      background-color: #fff;
       box-shadow: none;
       color: #fff; }
 
